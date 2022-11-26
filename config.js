@@ -1,8 +1,8 @@
-const nameGirl = 'Ấn để mở nhé !';
+const nameGirl = '>> !';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 20-11';
-const titleCard = 'Tặng Cô Giáo của anh';
-const contentCard = 'Chúc CG Đào 20/11 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau ♥';
+const eventName = 'Xin chào';
+const titleCard = '🌸🌸🌸🌸';
+const contentCard = 'Cảm ơn vì em đã xuất hiện và là một phần trong cuộc đời của tôi. Xin lỗi vì những gì chưa hoàn hảo. Tạm biệt 🤍';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
